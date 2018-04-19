@@ -17,5 +17,4 @@ python3 wechat.py
 
 # Run in background
 nohup python3 wechat.py > log.txt 2>&1&
-# nohup python3 wechat.py &
 ```
